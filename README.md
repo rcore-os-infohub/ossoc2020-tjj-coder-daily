@@ -38,3 +38,16 @@
 + 高级特征
 ### 学习《Rust编程之道》
 + 第三章：类型系统
+
+# Day5 7/8
+## 1：学习rust语法
+阅读《rust编程之道》
++ 第四章：类型系统
++ 第五章：内存管理
++ 第六章：所有权系统
++ 第九章：构建健壮的程序
+## 2：完成rustlings练习
++ move_semantics
++ modules
++ clippy
++ enums

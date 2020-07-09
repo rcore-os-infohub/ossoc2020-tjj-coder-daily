@@ -51,3 +51,21 @@
 + modules
 + clippy
 + enums
+
+# Day5 7/9
+## 1：学习rust语法
+阅读《rust编程之道》
++ 第十三章：超越安全的边界
+## 2：完成rustlings练习
++ conversions
++ error_handling
++ generics
++ macros
++ option
++ strings
++ structs
++ tests
++ threads
++ traits
++ standard_library_types
++ test1 ~ test4

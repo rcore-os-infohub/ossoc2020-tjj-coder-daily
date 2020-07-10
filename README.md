@@ -69,3 +69,7 @@
 + traits
 + standard_library_types
 + test1 ~ test4
+
+# Day6 7/10
+## 学习rust
+阅读《rust编程之道》第十章，并完成本章的示例代码

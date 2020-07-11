@@ -7,6 +7,4 @@ fn main() {
     let last=list.get_last_node().unwrap();
     println!("first={}",first.borrow().value);
     println!("last={}",last.borrow().value);
-
-
 }

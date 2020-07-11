@@ -82,7 +82,6 @@ impl<T:Debug> LinkedList<T>{
             }
         }
     }
-    
 }
 
 

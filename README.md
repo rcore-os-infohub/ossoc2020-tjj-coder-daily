@@ -93,11 +93,19 @@
 ## 学习RISC-V
 学习《RISC-V手册：一本开源指令集的指南 》第十章，并浏览其他章节
 
-# Day10 7/15
+# Day11 7/15
 ## 学习基于rust的os
 完成lab0
 ## rust编程练习
 用rust完成了leetcode 21.合并两个有序链表。用rust写数据结构真不习惯，这道题熟悉了下，行数不够，明天找合适的题目。
+
+# Day11 7/16
+## 学习基于rust的os
+学习lab1的资料，明天完成lab1。
+## rust编程练习
+用rust完成了leetcode的两个练习
++ leetcode 2.两数相加
++ leetcode 328.奇偶链表
 
 
 

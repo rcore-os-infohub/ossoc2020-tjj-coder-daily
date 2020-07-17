@@ -107,5 +107,10 @@
 + leetcode 2.两数相加
 + leetcode 328.奇偶链表
 
+# Day12 7/17
+## rust编程练习
+完成rust的15道练习题，其中部分来自《笨办法学c语言》，其余来自leetcode。
+
+
 
 
